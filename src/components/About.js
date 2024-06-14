@@ -1,5 +1,5 @@
-import React from 'react';
-import { Container, Typography } from '@material-ui/core';
+import React from "react";
+import { Container, Typography } from "@material-ui/core";
 
 function About() {
   return (
@@ -8,7 +8,12 @@ function About() {
         About Me
       </Typography>
       <Typography variant="body1" component="p">
-        I'm a software developer with a passion for creating beautiful and functional web applications. With a strong background in React, JavaScript, and modern web technologies, I build responsive and user-friendly websites.
+        I have 3.5+ years of professional experience as a Software Developer,
+        specializing in ReactJS, NodeJS, JavaScript, TypeScript,and
+        PostgreSQL.Throughout my career, I have utilized various tools and
+        technologies, including Git, Jira, React-Redux, Redux-Saga, Postman,
+        DBeaver, VS Code, GitHub, CircleCI, and DataDog, to enhance development
+        processes and ensure high-quality software delivery.
       </Typography>
     </Container>
   );
