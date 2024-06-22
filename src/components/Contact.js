@@ -1,7 +1,7 @@
 import React from "react";
 // import imageBg from "../assets/images/overlay-bg.jpg";
 import { Icon, InlineIcon } from "@iconify/react";
-import linkedin from "@iconify-icons/mdi/linkedin"
+import linkedin from "@iconify-icons/mdi/linkedin";
 import github from "@iconify-icons/mdi/github";
 
 const Contact = () => {
@@ -129,7 +129,7 @@ const Contact = () => {
                               </span>
                             </a>
                           </li>
-                          {/* <li>
+                          <li>
                             <a
                               target="_blank"
                               href="https://github.com/bikramjit7777"
@@ -138,7 +138,7 @@ const Contact = () => {
                                 <Icon icon={github} />
                               </span>
                             </a>
-                          </li> */}
+                          </li>
                         </ul>
                       </div>
                     </div>
