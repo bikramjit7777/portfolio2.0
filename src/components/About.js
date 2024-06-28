@@ -4,9 +4,7 @@ import { Container, Typography } from "@material-ui/core";
 function About() {
   return (
     <Container>
-      <Typography variant="h3" component="h1">
-        About Me
-      </Typography>
+      <Typography component="h1">About Me</Typography>
       <Typography variant="body1" component="p">
         I have 3.5+ years of professional experience as a Software Developer,
         specializing in ReactJS, NodeJS, JavaScript, TypeScript,and
