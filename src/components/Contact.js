@@ -1,5 +1,4 @@
 import React from "react";
-// import imageBg from "../assets/images/overlay-bg.jpg";
 import { Icon, InlineIcon } from "@iconify/react";
 import linkedin from "@iconify-icons/mdi/linkedin";
 import github from "@iconify-icons/mdi/github";
@@ -10,7 +9,6 @@ const Contact = () => {
       <section
         id="contact"
         className="paralax-mf footer-paralax bg-image  route"
-        // style={{ backgroundImage: imageBg }}
       >
         <div className="overlay-mf"></div>
         <div className="container">

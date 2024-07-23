@@ -22,7 +22,7 @@ function Header() {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="h6" className={classes.title}>
-            Bikramjit
+            Bikramjit Singh
           </Typography>
           <Button color="inherit">About</Button>
           <Button color="inherit">Skills</Button>
